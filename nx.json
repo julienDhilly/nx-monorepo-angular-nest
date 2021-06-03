@@ -25,6 +25,9 @@
     "frontoffice-e2e": {
       "tags": [],
       "implicitDependencies": ["frontoffice"]
+    },
+    "api": {
+      "tags": []
     }
   }
 }
